@@ -1,0 +1,12 @@
+{
+  "Author": "Small_Miao",
+  "Name": "NyaPusher",
+  "Punchline": "一个推送插件。",
+  "Description": "一个插件用于当你离开FF时候提供一个远程提醒的工具。",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "sample",
+    "plugin",
+    "goats"
+  ]
+}
